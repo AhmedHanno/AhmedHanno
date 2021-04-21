@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedHanno
 - 👀 I’m interested in web development and programming  
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking for a part-time job in programming or webdevelopment  
+- 💞️ I’m looking for a part-time job in programming or web development  
 - 📫 How to reach me: yousry12695@gmail.com
 
 <!---
